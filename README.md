@@ -10,7 +10,9 @@ The purpose of this project is to create a distributed bitcoin mining system usi
 
 ## Overview
 
-Block diagram of the distributed implementation
+![Block Diagram](https://github.com/pranath-reddy/COP5615-Bitcoin-Generator/blob/main/DOSP%20Project-1.png)
+
+> Block diagram of the distributed implementation
 
 ## Execution
 
